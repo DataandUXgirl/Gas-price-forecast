@@ -69,18 +69,13 @@ price_on_date("2023-06-15")
 ```
 ## 📊 Visualizations
 
-
-![Original monthly price plot](Natural-gas-price-forecastng-chart/Monthly-natural-gas-prices.png)
-
 *Original monthly price plot*
 
-Interpolated daily price curve
+![Original monthly price plot](Monthly-natural-gas-prices.png)
 
-12-month forecast
 
-Seasonal pattern breakdown
-
-(Add your plot image here when generated!)
+*Extrapolated daily price curve 12 month forecast*
+![Extrapolated daily price curve 12 month forecast](Daily-gas-prices-with-12-month-forcast.png)
 
 
 
