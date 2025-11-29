@@ -70,7 +70,7 @@ price_on_date("2023-06-15")
 ## 📊 Visualizations
 
 
-![Original monthly price plot](Montly natural gas prices.png)
+![Original monthly price plot](Natural-gas-price-forecastng-chart/Monthly-natural-gas-prices.png)
 
 *Original monthly price plot*
 
