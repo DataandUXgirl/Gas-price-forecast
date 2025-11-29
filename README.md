@@ -1,4 +1,4 @@
-# 📈 Natural Gas Price Interpolation & Forecasting
+# 📈 Natural Gas Price Interpolation and Forecasting
 
 This project estimates daily natural gas prices from monthly market data and produces a 12 month price forecast. It includes a Python function that returns an estimated gas price for any past date or future date based on interpolation, extrapolation and seasonality trends.
 
