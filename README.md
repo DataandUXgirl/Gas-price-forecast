@@ -69,13 +69,23 @@ price_on_date("2023-06-15")
 ```
 ## 📊 Visualizations
 
+
 *Original monthly price plot*
 
 ![Original monthly price plot](Monthly-natural-gas-prices.png)
 
 
+
+
 *Extrapolated daily price curve 12 month forecast*
-![Extrapolated daily price curve 12 month forecast](Daily-gas-prices-with-12-month-forcast.png)
 
 
+![Extrapolated daily price curve 12 month forecast](extrapolated_daily_gas_prices_12mo_forecast.png
+)
+
+## 🤝 Contributing
+
+This project is part of my learning and portfolio.
+
+Suggestions, issues and improvements are welcome! ☺️
 
