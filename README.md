@@ -38,3 +38,49 @@ This project:
 
 - [📝 README.md](README.md)  
   *Project documentation (this file)*
+
+## 🧠 Skills Demonstrated
+
+- Python (pandas, numpy, matplotlib)
+
+- Time series analysis
+
+- Linear & spline interpolation
+
+- Basic forecasting
+
+- Data visualization
+
+- Working with GitHub Codespaces
+
+- Building reusable functions for pricing
+
+## 📘 How to Use the Model
+
+```python
+1. Load the pricing function:
+from gas_model import price_on_date
+
+2. Query any date 
+price_on_date("2023-06-15")
+
+3. Example output
+11.42 USD/MMBtu
+```
+## 📊 Visualizations
+
+
+![Original monthly price plot](images/price_plot.png)
+
+*Original monthly price plot*
+
+Interpolated daily price curve
+
+12-month forecast
+
+Seasonal pattern breakdown
+
+(Add your plot image here when generated!)
+
+
+
