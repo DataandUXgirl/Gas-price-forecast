@@ -22,3 +22,10 @@ This project:
 5. Implements a price_on_date() function to query any date
 
 6. Visualizes historical and predicted price
+
+## 📁 Files in this Repository
+
+gas_prices.csv         # raw monthly natural gas price data
+gas_forecast.ipynb     # Jupyter notebook with full analysis
+gas_model.py           # Python script with reusable functions
+README.md              # project documentation (this file)
