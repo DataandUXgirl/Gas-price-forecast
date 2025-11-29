@@ -25,7 +25,16 @@ This project:
 
 ## 📁 Files in this Repository
 
-[📄 Nat_Gas data jpmorgan.csv](Nat_Gas%20data%20jpmorgan.csv)  
-[📘 gas-forecast.ipynb](gas_forecast.ipynb)  
-[⚙️ gas-model.py](gas_model.py)  
-[📝 README.md](README.md)
+### Project Files
+
+- [📄 Nat_Gas data jpmorgan.csv](Nat_Gas%20data%20jpmorgan.csv)  
+  *Raw monthly natural gas price data*
+
+- [📘 gas-forecast.ipynb](gas_forecast.ipynb)  
+  *Jupyter notebook with full analysis*
+
+- [⚙️ gas-model.py](gas_model.py)  
+  *Python script with reusable functions (Not applicable to this project)*
+
+- [📝 README.md](README.md)  
+  *Project documentation (this file)*
