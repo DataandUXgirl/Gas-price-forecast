@@ -26,6 +26,6 @@ This project:
 ## 📁 Files in this Repository
 
 [📄 Nat_Gas data jpmorgan.csv](Nat_Gas%20data%20jpmorgan.csv)  
-[📘 gas_forecast.ipynb](gas_forecast.ipynb)  
-[⚙️ gas_model.py](gas_model.py)  
+[📘 gas-forecast.ipynb](gas_forecast.ipynb)  
+[⚙️ gas-model.py](gas_model.py)  
 [📝 README.md](README.md)
